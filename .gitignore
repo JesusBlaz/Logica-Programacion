@@ -1,0 +1,8 @@
+# IDE configurations
+.idea
+
+# Python virtual environments
+python/venv/
+
+# TypeScript compiled files
+typescript/dist/
