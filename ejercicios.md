@@ -36,3 +36,15 @@ Ana # Salida: True
 Carlos # Salida: False
 ```
 
+## Ejercicio #3:
+### Enunciado
+Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
+La frase y la palabra deben ser parámetros de una función.
+
+### Ejemplo
+- frase: "Había una vez una niña..."
+- palabra: "una"
+### Resultado
+```
+2
+```
