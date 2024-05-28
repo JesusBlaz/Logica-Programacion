@@ -16,3 +16,20 @@ test('Test Tabla de multiplicar del 2', () => {
                              '2 x 10 = 20 \n';
     expect(tablaDeMultiplicar(2)).toBe(resultado_esperado)
 })
+
+
+test('Test Tabla de multiplicar del 3', () => {
+    let resultado_esperado = 'Tabla del #3 \n' +
+                             '3 x 0 = 0 \n' +
+                             '3 x 1 = 3 \n' +
+                             '3 x 2 = 6 \n' +
+                             '3 x 3 = 9 \n' +
+                             '3 x 4 = 12 \n' +
+                             '3 x 5 = 15 \n' +
+                             '3 x 6 = 18 \n' +
+                             '3 x 7 = 21 \n' +
+                             '3 x 8 = 24 \n' +
+                             '3 x 9 = 27 \n' +
+                             '3 x 10 = 30 \n';
+    expect(tablaDeMultiplicar(3)).toBe(resultado_esperado);
+});

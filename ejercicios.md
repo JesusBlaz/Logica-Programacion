@@ -3,8 +3,8 @@
 ## Ejercicio #1:
 ### Enunciado
 Dado un número, devolver su tabla de multiplicar completa.
-### Resultado
 
+### Resultado
 ```
 Tabla del #2 
 2 x 0 = 0 
@@ -20,4 +20,19 @@ Tabla del #2
 2 x 10 = 20
 ```
 
+## Ejercicio #2:
+### Enunciado
+Dado una cadena de texto, comprobar si es un palíndromo.
+Los palíndromo son palabras que se leen igual aun estando invertidas.
+
+### Ejemplo de palíndromos
+- ana
+- bob
+- otto
+
+### Resultado
+```
+Ana # Salida: True
+Carlos # Salida: False
+```
 

@@ -1,4 +1,4 @@
-# Resultado ejercicio #1:
+# Ejercicio #1:
 
 
 def tabla_de_multiplicar(tabla, rango=10):

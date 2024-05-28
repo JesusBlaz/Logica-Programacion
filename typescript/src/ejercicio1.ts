@@ -2,12 +2,11 @@
 
 
 export let tablaDeMultiplicar = (tabla: number, rango=10) => {
-    /*
-    Genera la tabla de multiplicar para un número dado hasta el rango especificado.
-
-    :param tabla: number, La tabla de multiplicar a generar.
-    :param rango: number (opcional), hasta qué número se debe multiplicar la 'tabla'.
-    :return: string, la tabla de multiplicar como un string formateado.
+    /**
+     * Genera la tabla de multiplicar para un número dado hasta el rango especificado.
+     * @param tabla: number, La tabla de multiplicar a generar.
+     * @param rango: number (opcional), hasta qué número se debe multiplicar la 'tabla'.
+     * @return: string, la tabla de multiplicar como un string formateado.
      */
 
     let tablaMultiplicar = `Tabla del #${tabla} \n`
@@ -20,4 +19,4 @@ export let tablaDeMultiplicar = (tabla: number, rango=10) => {
     return tablaMultiplicar
 }
 
-console.log(tablaDeMultiplicar(2))
+// console.log(tablaDeMultiplicar(2))
