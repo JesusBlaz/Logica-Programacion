@@ -48,3 +48,13 @@ La frase y la palabra deben ser parámetros de una función.
 ```
 2
 ```
+
+## Ejercicio #4:
+### Enunciado
+Dada una cadena de texto, darle la vuelta e invertir el orden de sus caracteres, 
+sin usar métodos propios del lenguaje, sólo estructuras de control.
+
+### Resultado
+```
+Hola mundo! # Salida: !odnum aloH
+```
